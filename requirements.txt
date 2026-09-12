@@ -1,0 +1,11 @@
+# Core fine-tuning pipeline (installed inside the Colab notebook; listed here for reference)
+llamafactory
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+pandas
+scikit-learn
+matplotlib
