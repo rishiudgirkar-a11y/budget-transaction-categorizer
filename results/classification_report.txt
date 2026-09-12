@@ -1,0 +1,15 @@
+=== Fine-tuned model — validation set classification report ===
+
+                               precision    recall  f1-score   support
+
+                    Groceries      1.000     1.000     1.000        20
+              Dining & Coffee      1.000     1.000     1.000        18
+               Transportation      1.000     1.000     1.000        12
+Subscriptions & Entertainment      1.000     1.000     1.000        18
+            Utilities & Bills      1.000     1.000     1.000        16
+            Shopping & Retail      1.000     1.000     1.000        16
+            Health & Wellness      1.000     1.000     1.000        14
+
+                     accuracy                          1.000       114
+                    macro avg      1.000     1.000     1.000       114
+                 weighted avg      1.000     1.000     1.000       114
