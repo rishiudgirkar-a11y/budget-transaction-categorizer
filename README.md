@@ -83,7 +83,7 @@ After the first two full training runs, evaluation was still showing every predi
 
 ## Demo
 
-Loom walkthrough: [link]
+Loom walkthrough: [https://www.loom.com/share/b56b8efbc9c1401da4c6ebfe6e826c7e]
 
 ## Credits
 
